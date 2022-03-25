@@ -1,0 +1,53 @@
+.header{
+
+    height: 75px;
+    background: white;
+    border-bottom: 4px solid #39B2CC;
+    color: #444;
+    font-size: 16px;
+}
+.imageSet
+{   height: 70px;
+    width:100px;
+}
+.meniu
+{
+    margin-left:30px;
+}
+.pagesSet
+{
+    
+    align-items: left;
+   
+}
+.socialMedia
+{
+   
+    
+}
+
+.footerSettings
+{
+     background-color: #ededed;
+   /* height: 40px;
+    width: 100%;
+    margin-top:84%;
+    position: fixed;  
+    width: 100%;   */
+    position: fixed;  
+ 
+bottom: 5px;  
+ 
+width: 100%;  
+ 
+color: #515356;  
+
+}
+.distantare
+{
+    margin-left: 65%;
+}
+.spatiu
+{
+    margin-left:44%;
+}
